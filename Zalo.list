@@ -1,0 +1,32 @@
+# NAME: zalo
+# AUTHOR: linchao10058
+# REPO: https://github.com/linchao10058/ios_rule_script
+# UPDATED: 2021-10-17 06:18:52
+# DOMAIN-SUFFIX: 25
+# TOTAL: 25
+DOMAIN-SUFFIX,chat-wpa.zalo.me
+DOMAIN-SUFFIX,developers.zalo.me
+DOMAIN-SUFFIX,accounts.zalo.me
+DOMAIN-SUFFIX,wpa.chat.zalo.me
+DOMAIN-SUFFIX,id.zalo.me
+DOMAIN-SUFFIX,oa.zalo.me
+DOMAIN-SUFFIX,media.zalo.me
+DOMAIN-SUFFIX,business.zalo.me
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,shop.zalo.me
+DOMAIN-SUFFIX,chat.zalo.me
+DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX, ztevents.zaloapp.com
+DOMAIN-SUFFIX, stickers.zaloapp.com
+DOMAIN-SUFFIX, calendar.api.zaloapp.com
+DOMAIN-SUFFIX, failover.zaloapp.com
+DOMAIN-SUFFIX, vip.zaloapp.com
+DOMAIN-SUFFIX, oauth.zaloapp.com
+DOMAIN-SUFFIX, myip.api.zaloapp.com
+DOMAIN-SUFFIX, api.zaloapp.com
+DOMAIN-SUFFIX, jp.zaloapp.com
+DOMAIN-SUFFIX, accounts.zaloapp.com
+DOMAIN-SUFFIX, log.api.zaloapp.com
+DOMAIN-SUFFIX, events-msg.zaloapp.com
+DOMAIN-SUFFIX, centralized.zaloapp.com
+DOMAIN-SUFFIX, zaloapp.com
