@@ -1,9 +1,9 @@
 # NAME: zalo
 # AUTHOR: linchao10058
 # REPO: https://github.com/linchao10058/ios_rule_script_Zalo
-# UPDATED: 2021-10-17 07:30:52
-# DOMAIN-SUFFIX: 29
-# TOTAL: 29
+# UPDATED: 2021-10-17 18:30:52
+# DOMAIN-SUFFIX: 30
+# TOTAL: 30
 DOMAIN-SUFFIX,chat-wpa.zalo.me
 DOMAIN-SUFFIX,developers.zalo.me
 DOMAIN-SUFFIX,accounts.zalo.me
@@ -34,3 +34,4 @@ DOMAIN-SUFFIX, zing.zalo.com
 DOMAIN-SUFFIX, pubg.zalo.com
 DOMAIN-SUFFIX, www.zalo.com
 DOMAIN-SUFFIX, zalo.com
+DOMAIN-SUFFIX, zalo.vn
