@@ -1,0 +1,49 @@
+# NAME: zalo
+# AUTHOR: linchao10058
+# REPO: https://github.com/linchao10058/ios_rule_script_Zalo
+# UPDATED: 2022-11-21 18:30:00
+# DOMAIN-SUFFIX: 37
+# USER-AGENT: 4
+# TOTAL: 41
+
+DOMAIN-SUFFIX,sticker-wpa.chat.zalo.me
+DOMAIN-SUFFIX,www.zalo.me
+DOMAIN-SUFFIX,chat-wpa.zalo.me
+DOMAIN-SUFFIX,developers.zalo.me
+DOMAIN-SUFFIX,accounts.zalo.me
+DOMAIN-SUFFIX,wpa.chat.zalo.me
+DOMAIN-SUFFIX,id.zalo.me
+DOMAIN-SUFFIX,oa.zalo.me
+DOMAIN-SUFFIX,media.zalo.me
+DOMAIN-SUFFIX,business.zalo.me
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,shop.zalo.me
+DOMAIN-SUFFIX,chat.zalo.me
+DOMAIN-SUFFIX,id.zalo.me
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,chat.zalo.me
+DOMAIN-SUFFIX,www.zaloapp.com
+DOMAIN-SUFFIX,ztevents.zaloapp.com
+DOMAIN-SUFFIX,stickers.zaloapp.com
+DOMAIN-SUFFIX,calendar.api.zaloapp.com
+DOMAIN-SUFFIX,failover.zaloapp.com
+DOMAIN-SUFFIX,vip.zaloapp.com
+DOMAIN-SUFFIX,oauth.zaloapp.com
+DOMAIN-SUFFIX,myip.api.zaloapp.com
+DOMAIN-SUFFIX,api.zaloapp.com
+DOMAIN-SUFFIX,jp.zaloapp.com
+DOMAIN-SUFFIX,accounts.zaloapp.com
+DOMAIN-SUFFIX,log.api.zaloapp.com
+DOMAIN-SUFFIX,events-msg.zaloapp.com
+DOMAIN-SUFFIX,centralized.zaloapp.com
+DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX,zing.zalo.com
+DOMAIN-SUFFIX,pubg.zalo.com
+DOMAIN-SUFFIX,www.zalo.com
+DOMAIN-SUFFIX,zalo.com
+DOMAIN-SUFFIX,zalo.vn
+DOMAIN-SUFFIX,zaloapp.vn
+USER-AGENT,*zalo*
+USER-AGENT,zalo*
+USER-AGENT,*zaloapp*
+USER-AGENT,zaloapp*
